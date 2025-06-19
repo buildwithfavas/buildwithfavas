@@ -1,5 +1,5 @@
 const Favas = {
-  role: "Computer Science @Vienna",
-  focus: "Full Stack Development",
+  role: "Full Stack Developer",
+  focus: "Building scalable web applications",
   passion: "Solving real-world problems through code and design"
 };
